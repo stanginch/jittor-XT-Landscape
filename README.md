@@ -1,7 +1,5 @@
-# jittor-XT-Landscape
 
-# Jittor 草图生成风景比赛 baseline
-| 标题名称包含赛题、方法
+# Jittor 草图生成风景比赛
 
 ![主要结果](https://s3.bmp.ovh/imgs/2022/04/19/440f015864695c92.png)
 
