@@ -1,8 +1,4 @@
 # jittor-XT-Landscape
-The jittor framework is adopted
-
-
-| 第二届计图挑战赛开源模板
 
 # Jittor 草图生成风景比赛 baseline
 | 标题名称包含赛题、方法
